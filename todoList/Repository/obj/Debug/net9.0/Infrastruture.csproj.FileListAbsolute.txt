@@ -1,0 +1,17 @@
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\bin\Debug\net9.0\Infrastruture.deps.json
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\bin\Debug\net9.0\Infrastruture.runtimeconfig.json
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\bin\Debug\net9.0\Infrastruture.dll
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\bin\Debug\net9.0\Infrastruture.pdb
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\bin\Debug\net9.0\Entities.dll
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\bin\Debug\net9.0\Entities.pdb
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\Infrastruture.csproj.AssemblyReference.cache
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\Infrastruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\Infrastruture.AssemblyInfoInputs.cache
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\Infrastruture.AssemblyInfo.cs
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\Infrastruture.csproj.CoreCompileInputs.cache
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\Infrastr.B3E05DA2.Up2Date
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\Infrastruture.dll
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\refint\Infrastruture.dll
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\Infrastruture.pdb
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\Infrastruture.genruntimeconfig.cache
+C:\Users\Marquinhos\Downloads\projetos\Csharp\todoList\todoList\Repository\obj\Debug\net9.0\ref\Infrastruture.dll

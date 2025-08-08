@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91FF856C-DB23-48DD-BEA6-7EE488EE0DA7}|Services\\Services.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\todolist\\todolist\\services\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FF856C-DB23-48DD-BEA6-7EE488EE0DA7}|Services\\Services.csproj|solutionrelative:services\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCF5334-C38E-4692-8EC6-74BAA37A36FE}|Repository\\Infrastruture.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\todolist\\todolist\\repository\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCF5334-C38E-4692-8EC6-74BAA37A36FE}|Repository\\Infrastruture.csproj|solutionrelative:repository\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32468F0-3884-4850-B965-BD134778241C}|API\\API.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\todolist\\todolist\\api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32468F0-3884-4850-B965-BD134778241C}|API\\API.csproj|solutionrelative:api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169FE485-CD96-44BC-A5D9-ADED9CE5DE0D}|Entities\\Entities.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\todolist\\todolist\\entities\\models\\dto\\tasksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169FE485-CD96-44BC-A5D9-ADED9CE5DE0D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\dto\\tasksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32468F0-3884-4850-B965-BD134778241C}|API\\API.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\todolist\\todolist\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32468F0-3884-4850-B965-BD134778241C}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169FE485-CD96-44BC-A5D9-ADED9CE5DE0D}|Entities\\Entities.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\todolist\\todolist\\entities\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169FE485-CD96-44BC-A5D9-ADED9CE5DE0D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\Services\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\Services\\Services\\Service.cs",
+              "RelativeToolTip": "Services\\Services\\Service.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA0wGYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T03:26:37.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\Repository\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\Repository\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository\\Repository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAhwFgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T03:25:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\Entities\\Models\\Dto\\TasksDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Dto\\TasksDto.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\Entities\\Models\\Dto\\TasksDto.cs",
+              "RelativeToolTip": "Entities\\Models\\Dto\\TasksDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T02:00:22.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\Entities\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\Entities\\Models\\Tasks.cs",
+              "RelativeToolTip": "Entities\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T02:00:18.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:26:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\todoList\\todoList\\API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "API\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwFYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:10:01.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
